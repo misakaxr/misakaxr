@@ -4,7 +4,7 @@
 📹 Content Creation: On my [YouTube](https://www.youtube.com/@HikmaCodeLab),I help others learn and grow as developers. <br/>
 🌟 DevOps & Cloud Learning: Expanding my skills in DevOps practices and cloud platforms like AWS, aiming to build better workflows and robust deployments. <br/>
 
-![hikma's GitHub stats](https://github-readme-stats.vercel.app/api?username=misakaxr&show_icons=true&theme=radical)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hikmaxawar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hikmadesigns/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hikmadesigns) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@HikmaCodeLab) 
