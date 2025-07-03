@@ -1,8 +1,8 @@
 ###Hi there! 👋 I’m Hikma!
 
-👨‍💻 Full Stack Developer: passionate about building end-to-end applications. <br/>
-📹 Content Creation: On my [YouTube](https://www.youtube.com/@HikmaCodeLab),I help others learn and grow as developers. <br/>
-🌟 DevOps & Cloud Learning: Expanding my skills in DevOps practices and cloud platforms like AWS, aiming to build better workflows and robust deployments. <br/>
+👨‍💻 **Full Stack Developer** — Passionate about building robust, end-to-end web applications.  
+📹 **Content Creator** — I share coding tutorials and tech insights on [YouTube](https://www.youtube.com/@HikmaCodeLab) to help others grow as developers.  
+☁️ **DevOps & Cloud Engineer** — Skilled in deploying scalable applications using modern cloud and DevOps tools.
 
 
 
